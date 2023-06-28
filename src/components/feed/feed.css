@@ -1,0 +1,9 @@
+.feed{
+    flex: 7;
+    /* background-color: lightblue; */
+    overflow-y: scroll;
+}
+
+.feedWrapper{
+    padding: 20px;
+}
